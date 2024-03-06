@@ -1,0 +1,25 @@
+.table-container {
+  width: 80%;
+}
+
+h1 {
+  text-align: center;
+  padding-block: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}

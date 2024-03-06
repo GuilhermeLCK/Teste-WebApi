@@ -1,0 +1,110 @@
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\appsettings.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Teste WebApi.exe
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Teste WebApi.deps.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Teste WebApi.runtimeconfig.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Teste WebApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Teste WebApi.pdb
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.AssemblyReference.cache
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.AssemblyInfoInputs.cache
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.AssemblyInfo.cs
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.CoreCompileInputs.cache
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Teste WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Teste WebApi.props
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Teste WebApi.props
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Teste WebApi.props
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\scopedcss\bundle\Teste WebApi.styles.css
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.CopyComplete
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\refint\Teste WebApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.pdb
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\Teste WebApi.genruntimeconfig.cache
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\obj\Debug\net7.0\ref\Teste WebApi.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Npgsql.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\JWT.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Faculdade\c#\Teste WebApi\Teste WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\appsettings.Development.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\appsettings.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Teste WebApi.exe
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Teste WebApi.deps.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Teste WebApi.runtimeconfig.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Teste WebApi.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Teste WebApi.pdb
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\AutoMapper.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Humanizer.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\JWT.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Npgsql.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.AssemblyReference.cache
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.AssemblyInfoInputs.cache
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.AssemblyInfo.cs
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.CoreCompileInputs.cache
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Teste WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Teste WebApi.props
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Teste WebApi.props
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Teste WebApi.props
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\scopedcss\bundle\Teste WebApi.styles.css
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.csproj.CopyComplete
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\refint\Teste WebApi.dll
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.pdb
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\Teste WebApi.genruntimeconfig.cache
+E:\Projetos\projeto_teste\backend\Teste WebApi\obj\Debug\net7.0\ref\Teste WebApi.dll
