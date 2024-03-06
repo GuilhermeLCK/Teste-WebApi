@@ -48,6 +48,10 @@ O projeto vai rodar na porta 5173 (http://localhost:5173).
     dotnet run
     ```
 
+4. Ou execute o seu projeto pelo Visual Estudio
+
+   
+
 O projeto vai rodar na porta 7183 (https://localhost:7183).
 
 Para consultar a API via Swagger, é necessário gerar um TOKEN. Preencha o campo "username" e "password", pegue o token gerado e libere as rotas para consulta.
